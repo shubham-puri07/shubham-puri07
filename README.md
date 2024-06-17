@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Shubham 👋
+          
 
-<!--
-**shubham-puri07/shubham-puri07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🔭 I’m currently working in Perficient India as Test Engineer
+- 🌱 I’m currently learning Selenium and Postman
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about software testing and automation
+- 📫 How to reach me: Shubham29051@gmail.com
+- ⚡ Fun fact: I love to explore new technologies and write blogs
 
-Here are some ideas to get you started:
+## Skills
+- **Programming Languages**: Java, SQL
+- **Tools & Technologies**: Selenium, Jira, Visual Studio Code, Eclipse, Jenkins, gCampaign, Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/shubhampuri07)
+- [GitHub](https://github.com/shubham-puri07)
