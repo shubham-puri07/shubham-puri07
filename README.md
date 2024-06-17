@@ -2,7 +2,7 @@
 
 Test Engineer @ Perficient | ISTQB Certified | Java | Selenium | Agile methodologies, Jira | Generative AI
 
-I am a fervent Clean Code and Automation Evangelist deeply committed to crafting cutting-edge frameworks for Web, Mobile, and API automation. Currently serving as a Test Engineer at Perficient, I bring to the table an ISTQB certification and a versatile skill set encompassing Java, Selenium, Agile methodologies, Jira, and the fascinating realm of Generative AI.
+I am a fervent Clean Code and Automation Evangelist deeply committed to crafting cutting-edge frameworks for Web, Mobile, and API automation. Currently serving as a Test Engineer at Perficient, I bring to the table an ISTQB certification and a versatile skill set encompassing Java, Selenium, Agile methodologies, Jira, and Generative AI to drive excellence in software testing and automation.
 
 
 ## Skills
