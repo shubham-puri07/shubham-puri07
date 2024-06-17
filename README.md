@@ -1,2 +1,2 @@
-**Navigate to the branche in the same repo.
+**Navigate to the branches in the same repo.
 **
