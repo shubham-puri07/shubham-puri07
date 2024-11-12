@@ -13,7 +13,7 @@ I am a fervent Clean Code and Automation Evangelist deeply committed to crafting
 - 🌱 I’m currently learning Selenium and Postman
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about software testing and automation
-- 📫 How to reach me: Shubham29051@gmail.com
+- 📫 How to reach me: Spuri4867@gmail.com
 - ⚡ Fun fact: I love to explore new technologies and write blogs
 
 ## Connect with Me
